@@ -15,7 +15,7 @@ class Ytx < Formula
 
   def caveats
     <<~EOS
-      Respect content creators's rights. Only download content you have permission to use.
+      Respect content creators' rights. Only download content you have permission to use.
     EOS
   end
 
