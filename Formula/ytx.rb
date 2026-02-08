@@ -13,6 +13,12 @@ class Ytx < Formula
     bin.install ".build/release/ytx"
   end
 
+  def caveats
+    <<~EOS
+      Respect content creators' rights. Only download content you have permission to use.
+    EOS
+  end
+
   test do
     assert_match "USAGE: ytx", shell_output("#{bin}/ytx --help")
   end
