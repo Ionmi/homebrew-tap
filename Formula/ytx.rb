@@ -1,8 +1,8 @@
 class Ytx < Formula
   desc "Local YouTube transcriber for macOS — downloads audio and transcribes with Apple Speech.framework"
   homepage "https://github.com/Ionmi/ytx"
-  url "https://github.com/Ionmi/ytx/archive/refs/tags/v0.3.0.tar.gz"
-  sha256 "39550999f92c3566fa42b384bf8f04892373ff118e484c3f67668f8c8ca75c21"
+  url "https://github.com/Ionmi/ytx/archive/refs/tags/v0.3.1.tar.gz"
+  sha256 "fd2f546dfc3e144e7bfc3e385cabfc173fb9bc7430f0705b4b548876480158f7"
   license "MIT"
 
   depends_on :macos => :tahoe
