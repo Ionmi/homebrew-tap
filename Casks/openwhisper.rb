@@ -1,6 +1,6 @@
 cask "openwhisper" do
-  version "2.3.1"
-  sha256 "c31e383ba5149b918e2f52dae8590ade13352122cd7e9475acb89184bcaf82f6"
+  version "2.3.2"
+  sha256 "7ff0175cf72373141a8da7eb99c97574b9899bfd1b717bc47b953bf3244778ed"
 
   url "https://github.com/Ionmi/OpenWhisper/releases/download/#{version}/OpenWhisper.zip"
   name "OpenWhisper"
